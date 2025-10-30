@@ -66,3 +66,19 @@ This repository is structured for educational and submission purposes.
 Each folder represents a real component of the final integrated app.  
 All commits should clearly describe changes, for example:
 
+
+
+---
+
+## 👩‍💻 Author  
+**Karina Kumari**  
+📍 Bangalore, India  
+📧 [karinakumari907ce@gmail.com]  
+💻 Passionate about Android, C++, and Computer Vision  
+
+---
+
+## 🏁 License  
+This repository is created for **educational and assessment purposes** only.  
+© 2025 Karina Kumari. All rights reserved.
+
