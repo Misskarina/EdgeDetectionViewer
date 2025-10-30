@@ -38,4 +38,31 @@ This project demonstrates real-time **edge detection** on Android using:
 - Displays a **sample processed frame** (static or base64).
 - Demonstrates TypeScript DOM manipulation and modular project setup.
 
+
 ---
+
+## 🧠 Architecture Summary
+1. Android captures live camera frames.  
+2. Frames are sent via **JNI** to **C++**.  
+3. **OpenCV** processes the image (edges/grayscale).  
+4. Processed image is rendered using **OpenGL ES**.  
+5. A sample frame is exported for the **web viewer**.
+
+---
+
+## 🧰 Technologies Used
+| Layer | Technology |
+|--------|-------------|
+| Mobile | Android (Java/Kotlin) |
+| Native | C++ with NDK |
+| Processing | OpenCV |
+| Rendering | OpenGL ES 2.0 |
+| Web | TypeScript, HTML, CSS |
+
+---
+
+## 📦 Git Repository Usage
+This repository is structured for educational and submission purposes.  
+Each folder represents a real component of the final integrated app.  
+All commits should clearly describe changes, for example:
+
